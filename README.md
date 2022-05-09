@@ -27,7 +27,7 @@
     </td>
     <td rowspan="5">
         <ul>
-            <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-fin-11-2021-u-c/blob/master/Homework/Week%201">Unit 1 | Homework Assignment: FinTech Case Study</a></li>
+            <li><strong>Unit 1 | Homework Assignment: FinTech Case Study</strong></li>
             <li><strong>Due Date: Thursday, May 19, 2022 11:59 PM</strong></li>
         </ul>
     </td>
