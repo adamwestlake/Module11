@@ -30,7 +30,7 @@
     <td rowspan="5">
         <ul>
             <li><strong>Unit 1 | Homework Assignment: FinTech Case Study</strong></li>
-            <li><strong>Due Date: Thursday, May 19, 2022 11:59 PM</strong></li>
+            <li><strong>Due Date: Thursday, May 19, 2022 9:59 PM</strong></li>
         </ul>
     </td>
   </tr>
@@ -87,7 +87,7 @@
     <td rowspan="5">
         <ul>
             <li><strong>Unit 2 | Homework Assignment: Automate Your Day Job with Python</strong></li>
-            <li><strong>Due Date: Thursday, May 26, 2022 11:59 PM</strong></li>
+            <li><strong>Due Date: Thursday, May 26, 2022 9:59 PM</strong></li>
         </ul>
     </td>
   </tr>
@@ -143,7 +143,7 @@
     <td rowspan="5">
         <ul>
             <li><strong>Units 3 - 4 | Homework Assignment (2 Weeks): A Whale Off the Port(folio)</strong></li>
-            <li><strong>Thursday, December 9, 2021 11:59 PM</strong></li>
+            <li><strong>Thursday, June 9, 2022 9:59 PM</strong></li>
         </ul>
     </td>
   </tr>
