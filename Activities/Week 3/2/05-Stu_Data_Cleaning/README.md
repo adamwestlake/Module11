@@ -1,20 +1,20 @@
 # Spring Cleaning
 
-It's that time of year again: the end of the fiscal year and the time to begin financial spring cleaning! Within a month, auditors will be camped out at your investment firm, inspecting everyone's trades and the company's end-of-year financial statements. All of the traders in the firm are under a lot of pressure to finalize their portfolio earnings and deliver them to their managers. That is, all traders except you.
+It's that time of year again: the end of the fiscal year and the time to begin financial spring cleaning! Within a month, auditors will be camped out at your investment firm, inspecting everyone's trades and the company's end-of-year financial statements. All of the firm's traders are under a lot of pressure to finalize their portfolio earnings and deliver them to their managers. That is, all traders except you.
 
-You automated your end-of-year financial reporting last week, and now you're using the pipeline to help out Harold with his reports. Before loading Harold's stock ticker data into Pandas, you open the Excel file he sent you to look at the quality of the data. You realize that Harold has not subscribed to any data quality standards and that the data is a mess.
+You automated your end-of-year financial reporting last week, and now you're using the pipeline to help Harold with his reports. Before loading Harold's stock ticker data into Pandas, you open the Excel file he sent you to look at the quality of the data. You realize that Harold has not subscribed to any data quality standards and that the data is a mess.
 
 For this activity, use Pandas to clean Harold's portfolio data to get it fit for use.
 
 ## Instructions
 
-Using the [starter file](Unsolved/Core/spring_cleaning.ipynb) and Harold's financial [data](Resources/stock_data.csv), complete the following steps.
+Using the [starter file](Unsolved/spring_cleaning.ipynb) and Harold's financial [data](Resources/stock_data.csv), complete the following steps.
 
 1. Load CSV data into Pandas using `read_csv`.
 
 2. Identify the number of rows and columns in the DataFrame, otherwise known as its shape/structure.
 
-3. Generate a sample of the data to visually ensure data has been loaded in correctly.
+3. Preview the DataFrame using `head` to visually ensure data has been loaded in correctly.
 
 4. Identify the number of records in the DataFrame, and compare it with the number of rows in the original file.
 
@@ -32,9 +32,7 @@ Using the [starter file](Unsolved/Core/spring_cleaning.ipynb) and Harold's finan
 
 ## Challenge
 
-Complete this challenge using the [starter file](Unsolved/Challenge/spring_cleaning.ipynb).
-
-Now that nulls and duplicates have been wrangled, clean up the data a little more by removing the `$` currency symbols from the `price` field. Then, use the `astype` function to cast `price` to a `float`.
+Now that nulls and duplicates have been wrangled, clean up the data a little more by removing the `$` currency symbols from the `price` field. Then, use the `astype` function to cast `price` to a `float`, and validate using `dtype`.
 
 ## Hint
 
@@ -42,4 +40,4 @@ Pandas offers a `replace` function that can be executed against a Series. Docume
 
 ---
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

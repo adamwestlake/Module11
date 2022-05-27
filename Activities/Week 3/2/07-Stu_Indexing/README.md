@@ -10,13 +10,13 @@ Complete the following steps.
 
 1. Import the necessary libraries and dependencies.
 
-2. Read in the `loans.csv` data.
+2. Read in the `loans.csv` data into a Pandas DataFrame.
 
 3. Show the first `10` records of the data.
 
 4. View summary statistics for the `loans.csv` data.
 
-5. Create a subset DataFrame `filtered_df` by filtering out the important columns:
+5. Create a subset DataFrame `filtered_df` by filtering the columns so that only the following columns remain:
 
     * `loan_amnt`
     * `term`
@@ -25,7 +25,7 @@ Complete the following steps.
     * `annual_inc`
     * `purpose`
 
-6. Filter `filtered_df` by row values where `term` is equal to `36 months` in order to focus on only three-year loan records.
+6. Filter `filtered_df` by row values where `term` is equal to `36 months` in order to focus on three-year loan records only.
 
 7. Modify rows with `term` values equal to `36 months` to be `3 years`.
 
@@ -47,9 +47,9 @@ Complete the following steps.
 
     * What are three-year loans generally used for?
 
-    * What is the difference between counts of three-year loan customers with annual incomes greater than 80,000, compared to those with annual incomes less than 80,000?
+    * What is the difference between counts of three-year loan customers with annual incomes greater than `$80,000`, compared to those with annual incomes less than `$80,000`?
 
-    * What is the difference between interest rates for customers with annual incomes greater than 80,000 compared to those with annual incomes less than 80,000?
+    * What is the difference between interest rates for customers with annual incomes greater than `$80,000` compared to those with annual incomes less than `$80,000`?
 
 ## Hint
 
@@ -57,4 +57,4 @@ View the [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/) f
 
 ---
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

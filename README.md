@@ -5,6 +5,7 @@
 | [Week 1](#week-1) || ||
 | [Week 2](#week-2) || ||
 | [Week 3](#week-3) || ||
+| [Week 4](#week-4) || ||
 
 
 ****
@@ -174,6 +175,62 @@
 </table> 
 <p>
   <a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Supplementary%20Material/Week%203"><strong>Supplementary Week 3 Material</strong></a> 
+</p>
+
+****
+
+## Week 4
+ <table>
+  <tr>
+    <th></th>
+    <th>Slides</th>
+    <th>Activities</th>
+    <th>Homework</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Day 1</td>
+  </tr>
+  <tr>
+    <td><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-fin-11-2021-u-c/-/blob/master/Lesson%20Slides/Week%204/fintech-04-1-pandas-investing-like-the-pros-v1.0.1.pdf">fintech-04-1-pandas-investing-like-the-pros-v1.0.1</a></td>
+    <td>
+        <ul>
+            <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Activities/Week%204/1">Day 1</a></li>
+        </ul>
+    </td>
+    <td rowspan="5">
+        <ul>
+            <li><strong> Units 3 - 4 | Homework Assignment: A Whale Off the Port(folio)</strong></li>
+            <li><strong>Thursday, June 9, 2022 9:59 PM</strong></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Day 2</td>
+  </tr>
+  <tr>
+    <td><strong>N/A</strong></td>
+    <td>
+        <ul>
+            <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Activities/Week%204/2">Day 2</a></li>
+        </ul>
+    </td>
+
+  </tr>
+  <tr>
+    <td rowspan="2">Day 3</td>
+
+  </tr>
+  <tr>
+    <td><strong>N/A</strong></td>
+    <td>
+        <ul>
+            <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Activities/Week%204/3">Day 3</a></li>    
+        </ul>
+    </td>
+  </tr>
+</table> 
+<p>
+  <a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Supplementary%20Material/Week%204"><strong>Supplementary Week 4 Material</strong></a> 
 </p>
 
 ****
