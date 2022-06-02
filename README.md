@@ -6,6 +6,7 @@
 | [Week 2](#week-2) || ||
 | [Week 3](#week-3) || ||
 | [Week 4](#week-4) || ||
+| [Week 5](#week-5) || ||
 
 
 ****
@@ -191,7 +192,7 @@
     <td rowspan="2">Day 1</td>
   </tr>
   <tr>
-    <td><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-fin-11-2021-u-c/-/blob/master/Lesson%20Slides/Week%204/fintech-04-1-pandas-investing-like-the-pros-v1.0.1.pdf">fintech-04-1-pandas-investing-like-the-pros-v1.0.1</a></td>
+    <td><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Lesson%20Slides/Week%204/fintech-04-1-pandas-investing-like-the-pros-v1.0.1.pdf">fintech-04-1-pandas-investing-like-the-pros-v1.0.1</a></td>
     <td>
         <ul>
             <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Activities/Week%204/1">Day 1</a></li>
@@ -231,6 +232,62 @@
 </table> 
 <p>
   <a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Supplementary%20Material/Week%204"><strong>Supplementary Week 4 Material</strong></a> 
+</p>
+
+****
+
+## Week 5
+ <table>
+  <tr>
+    <th></th>
+    <th>Slides</th>
+    <th>Activities</th>
+    <th>Homework</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Day 1</td>
+  </tr>
+  <tr>
+    <td><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Lesson%20Slides/Week%205/fintech-05-1-python-apis-v1.0.1">fintech-05-1-python-apis-v1.0.1</a></td>
+    <td>
+        <ul>
+            <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Activities/Week%205/1">Day 1</a></li>
+        </ul>
+    </td>
+    <td rowspan="5">
+        <ul>
+            <li><strong>Unit 5 | Financial Planning</strong></li>
+            <li><strong>Monday, June 20, 2022 9:59 PM</strong></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Day 2</td>
+  </tr>
+  <tr>
+    <td><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Lesson%20Slides/Week%205/fintech-05-2-API Mania!-v2.0.1">fintech-05-2-API Mania!-v2.0.1</a></td>
+    <td>
+        <ul>
+            <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Activities/Week%205/2">Day 2</a></li>
+        </ul>
+    </td>
+
+  </tr>
+  <tr>
+    <td rowspan="2">Day 3</td>
+
+  </tr>
+  <tr>
+    <td><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Lesson%20Slides/Week%205/CA-FinTech-05-3-Track to the Future!-v2.0.1.pdf">fintech-05-3-Track to the Future!-v2.0.1</a></td>
+    <td>
+        <ul>
+            <li><a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Activities/Week%205/3">Day 3</a></li>    
+        </ul>
+    </td>
+  </tr>
+</table> 
+<p>
+  <a href="https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-FIN-PT-05-2022-U-LOLC/-/tree/main/Supplementary%20Material/Week%205"><strong>Supplementary Week 5 Material</strong></a> 
 </p>
 
 ****
